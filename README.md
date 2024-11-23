@@ -1,2 +1,5 @@
-# ai701project
-GitHub repo of the final project for AI701 at MBZUAI
+# Group 05 AI701 Final Project at Mohamed Bin Zayed University of Artificial Intelligence
+
+**Group members:** Aigerim Zhusubalieva, Karina Abubakirova, Nazira Dunbayeva
+
+**Abstract:** Alzheimer's disease (AD), a leading cause of dementia, affects millions globally, posing significant emotional and financial challenges for patients and caregivers. Emerging research highlights the critical role of the gut microbiome in influencing neurodegenerative processes through the microbiome-gut-brain axis (MGBA). Alterations in gut microbial composition have been linked to AD pathology through mechanisms such as neuroinflammation and metabolic dysregulation. This project leverages gut microbiome data to predict AD by analyzing datasets from Turkey and Shanghai. Using advanced feature engineering techniques and machine learning models, microbial signatures associated with AD are identified. The results demonstrate the feasibility of non-invasive diagnostic methods and explore generalizable microbiome patterns across diverse populations, offering insights into personalized therapeutic strategies.
